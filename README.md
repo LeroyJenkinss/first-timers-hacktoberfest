@@ -12,6 +12,12 @@ Twitter: JoeBobTheCannonFakeUser
 Facebook: JoeBobTheCannonFakeUser  
 
 ## First timers
+
+Name: LEROYYYYY  
+Bio: Junior Java Programmer
+Place: Rotterdam, Netherlands 
+Github: https://github.com/LeroyJenkinss 
+
 Name: Priyam  
 Bio: Introduction to Java and HTML  
 Place: California, USA  
